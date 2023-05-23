@@ -1,0 +1,10 @@
+D:\Projects\c#\Bank_Add_Customer\Bank_Add_Customer\bin\Debug\Bank_Add_Customer.exe.config
+D:\Projects\c#\Bank_Add_Customer\Bank_Add_Customer\bin\Debug\Bank_Add_Customer.exe
+D:\Projects\c#\Bank_Add_Customer\Bank_Add_Customer\bin\Debug\Bank_Add_Customer.pdb
+D:\Projects\c#\Bank_Add_Customer\Bank_Add_Customer\obj\Debug\Bank_Add_Customer.csproj.AssemblyReference.cache
+D:\Projects\c#\Bank_Add_Customer\Bank_Add_Customer\obj\Debug\Bank_Add_Customer.Form1.resources
+D:\Projects\c#\Bank_Add_Customer\Bank_Add_Customer\obj\Debug\Bank_Add_Customer.Properties.Resources.resources
+D:\Projects\c#\Bank_Add_Customer\Bank_Add_Customer\obj\Debug\Bank_Add_Customer.csproj.GenerateResource.cache
+D:\Projects\c#\Bank_Add_Customer\Bank_Add_Customer\obj\Debug\Bank_Add_Customer.csproj.CoreCompileInputs.cache
+D:\Projects\c#\Bank_Add_Customer\Bank_Add_Customer\obj\Debug\Bank_Add_Customer.exe
+D:\Projects\c#\Bank_Add_Customer\Bank_Add_Customer\obj\Debug\Bank_Add_Customer.pdb

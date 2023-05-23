@@ -1,0 +1,12 @@
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\bin\Debug\Bank_Sign_up.exe.config
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\bin\Debug\Bank_Sign_up.exe
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\bin\Debug\Bank_Sign_up.pdb
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\obj\Debug\Bank_Sign_up.csproj.AssemblyReference.cache
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\obj\Debug\Bank_Sign_up.Form1.resources
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\obj\Debug\Bank_Sign_up.Properties.Resources.resources
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\obj\Debug\Bank_Sign_up.csproj.GenerateResource.cache
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\obj\Debug\Bank_Sign_up.csproj.CoreCompileInputs.cache
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\obj\Debug\Bank_Sign_up.exe
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\obj\Debug\Bank_Sign_up.pdb
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\obj\Debug\Bank_Sign_up.Form2.resources
+D:\Projects\c#\Bank_Sign_up\Bank_Sign_up\obj\Debug\Bank_Sign_up.Form3.resources
