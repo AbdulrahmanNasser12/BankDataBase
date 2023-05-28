@@ -1,4 +1,4 @@
-<h1>Human resources Web page Frontend</h1>
+<h1>Bank Database Structure</h1>
 
 <p>
 Welcome to the Bank Database Management System project! This repository contains the necessary files and resources to set up a simple structure of a bank database, including tables for employees and customers. The project aims to provide a foundation for managing customer and employee data efficiently.
